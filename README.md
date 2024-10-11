@@ -1,8 +1,7 @@
-
-# Juan-Jose-Moncada
+# Juan Jose Moncada 
 
 ¡Hola! Soy Juan José Moncada,  
-También conocido como Moncada16 en GitHub
+También conocido como Moncada16 en GitHub 
 
 ### ¿Quién soy?
 
